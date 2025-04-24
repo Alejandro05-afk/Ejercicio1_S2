@@ -15,7 +15,7 @@ public class Jugador {
     public void infoJugador() {
         System.out.println(this.nombre +
                 "\nTiene " + this.edad + " años, juega de " + this.posicion +
-                ", su equipo es " + this.equipo);
+                ", su equipo es el " + this.equipo);
     }
 }
 
